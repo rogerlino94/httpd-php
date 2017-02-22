@@ -1,5 +1,5 @@
 
-FROM rogerlino94/httpd2
+FROM rogerlino94/httpd
 
 MAINTAINER roger.r.l94@hotmail.com
 
